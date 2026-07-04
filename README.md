@@ -38,5 +38,14 @@ o	Employee Full Name
 •	Incorporate a visual element indicating the date and time of the last data refresh. 
 By transforming this data into an insightful dashboard, the company will gain a clearer understanding of their workforce dynamics and be better equipped to make informed decisions.
 
-**Dataset:**
+**Dataset used:**
+
+<a href="https://github.com/bharathi130100/Data-Analysis-Dashboard/blob/main/Employee%20Sample%20Data.xlsx"> DataSet</a>
+
+**Dashboard interaction:**
+
+<a href="https://github.com/bharathi130100/Data-Analysis-Dashboard/blob/main/HR%20Dashboard%20image.png"> View Dashboard Image</a>
+
+<a href="https://github.com/bharathi130100/Data-Analysis-Dashboard/blob/main/HR%20Dashboard%20slicer.png">View Slicer Image</a>
+
 
