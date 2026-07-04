@@ -48,4 +48,14 @@ By transforming this data into an insightful dashboard, the company will gain a 
 
 <a href="https://github.com/bharathi130100/Data-Analysis-Dashboard/blob/main/HR%20Dashboard%20slicer.png">View Slicer Image</a>
 
+**Dashboard Screenshots:**
+
+<img width="1295" height="735" alt="Dashboard" src="https://github.com/user-attachments/assets/cfef0fef-ef49-4c0b-a83d-22a3debd03be" />
+
+
+<img width="1302" height="745" alt="Slicer" src="https://github.com/user-attachments/assets/c2e246a4-a6b8-420f-bcd3-85b7b7ef6849" />
+
+
+
+
 
